@@ -1,0 +1,104 @@
+.contactTitle {
+  font-size: 20px; 
+  font-weight: bold;
+  color: #58c1a3; 
+  margin-bottom: 20px; 
+  font-style: italic;
+}
+
+.text{
+  font-style: italic;
+}
+
+.title{
+  color: #58c1a3; 
+  margin-bottom: 20px; 
+  font-style: italic;
+}
+
+.addCommentSection {
+  text-decoration: underline;
+  text-underline-position: under;
+  cursor: pointer;
+}
+
+
+.commentInput {
+  width: 89%; 
+  height: 60px 
+}
+
+
+ 
+  
+  .commentButton  {
+    cursor: pointer;
+  }
+
+
+
+
+.container {
+  margin-top: 5rem; 
+  background-color: rgb(223,249,241);
+  height: 100vh; 
+  padding-left: 20px; 
+}
+
+
+
+.row {
+ 
+  align-items: left; 
+ 
+}
+
+.card {
+  margin: 0 auto 1.5rem auto; 
+  border: none; 
+  box-shadow: 5px 6px 6px 2px #e9ecef; 
+  border-radius: 4px; 
+}
+
+.user {
+  display: flex;
+  align-items: center; 
+}
+
+
+.userName {
+  font-weight: bold; 
+  color: #030c16; 
+}
+
+
+.commentText {
+  color: #504e4e;
+  font-size: 16px;
+  font-style: italic; 
+}
+
+
+.colon {
+  font-weight: bold; 
+}
+
+.addCommentSection {
+  justify-content: space-between; 
+}
+
+.commentDate {
+  font-size: 12px; 
+  font-style: italic;
+  color: #8d8d8d; 
+}
+.logoContainer {
+  margin-bottom: 20px; 
+}
+
+.logo {
+  max-width: 100%; 
+  height: auto; 
+}
+
+
